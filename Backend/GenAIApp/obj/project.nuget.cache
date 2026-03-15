@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LoqsSQE9tm4=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\GenAI\\Backend\\GenAIApp\\GenAIApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\as722\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\as722\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\as722\\.nuget\\packages\\xabe.ffmpeg\\6.0.2\\xabe.ffmpeg.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
